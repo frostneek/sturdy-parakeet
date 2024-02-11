@@ -13,7 +13,7 @@ This VBScript provides an automated way to lock your computer, put it to sleep, 
 2. Double-click the script file to run it.
 3. Follow the on-screen prompts:
    - Enter 'yes' to lock the computer.
-   - Enter 'no' to skip the action.
+   - Enter 'no' to redo it until they mistype/enter yes :D
    - Enter the specified password to skip the action.
    - Enter any other input to put the computer to sleep.
 
